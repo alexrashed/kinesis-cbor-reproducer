@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This repos has been archived since LocalStack has been adjusted to this "CBOR dialect" in [localstack/localstack#11133](https://github.com/localstack/localstack/pull/11133).
+
 # Kinesis CBOR handling reproducer
 This repo contains a small reproducer to showcase the (non-standard-conform) CBOR timestamp handling in AWS Kinesis.
 
